@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @recepecem
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning C, C++, Internet communication, Digital Design and Data Structures. Also studying at tryhackme.com
-- 💞️ I’m looking to collaborate on Logo Yazılım
+- 💞️ I’m looking to collaborate on Bilishim Cyber Security and Artificial Intelligence
 - 📫 How to reach me ...
 
 <!---
