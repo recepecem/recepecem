@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @recepecem
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning PHP, Python scripts for cybersec, cybersec essentials.
+- 🌱 I’m currently learning PHP, Python scripts for cyber security, cyber security essentials.
 - 💞️ I’m looking to collaborate on *
 - 📫 How to reach me ...
 
