@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @recepecem
-- 👀 I’m interested in Cyber Security
+- 👋 Hi, I’m @recepecem.
+- 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning PHP, Python scripts for cyber security, cyber security essentials.
-- 💞️ I’m looking to collaborate on *
+- 💞️ I’m looking to collaborate on Akbank.
 - 📫 How to reach me ...
 
 <!---
