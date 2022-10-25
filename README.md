@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @recepecem.
 - 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning blue team essentials, pentesting, computing theory, PHP, JS, cryptography.
+- 🌱 I’m currently learning blue team essentials, pentesting, theory of computation, PHP, JS, cryptography.
 - 💞️ I’m looking to collaborate on Akbank.
 - 📫 How to reach me ...
 
