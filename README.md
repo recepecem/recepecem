@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @recepecem.
 - 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning blue team essentials, pentesting, theory of computation, PHP, JS for hackers, cryptography.
-- 💞️ I’m looking to collaborate on Akbank.
+- 💞️ I’m looking to collaborate on Türk Telekom.
 - 📫 How to reach me ...
 
 <!---
